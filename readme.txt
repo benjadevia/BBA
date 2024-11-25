@@ -1,0 +1,1 @@
+Hola, este programa calcula mediante building block approach (BBA), IFRS17
